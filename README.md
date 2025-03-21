@@ -22,7 +22,7 @@ Official repository for [**Unsupervised Joint Learning of Optical Flow and Inten
 If you use this work in your research, please cite it as follows:
 
 ```bibtex
-@Article{Guo24e2fai,
+@Article{Guo25e2fai,
   author        = {Shuang Guo and Guillermo Gallego},
   title         = {Unsupervised Joint Learning of Optical Flow and Intensity with Event Cameras},
   journal       = {(under review)},
