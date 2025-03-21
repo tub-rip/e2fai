@@ -2,7 +2,8 @@
 Official repository for [**Unsupervised Joint Learning of Optical Flow and Intensity with Event Cameras**](https://arxiv.org/abs/2412.14111), by [Shuang Guo](https://shuang1997.github.io) and [Guillermo Gallego](http://www.guillermogallego.es).
 
 ## Pipeline
-![pipeline](imgs/pipeline.png)
+<img src="imgs/pipeline.png" width="300">
+<!-- ![pipeline](imgs/pipeline.png) -->
 
 ## Results
 
