@@ -2,15 +2,15 @@
 Official repository for [**Unsupervised Joint Learning of Optical Flow and Intensity with Event Cameras**](https://arxiv.org/abs/2412.14111), by [Shuang Guo](https://shuang1997.github.io) and [Guillermo Gallego](http://www.guillermogallego.es).
 
 ## Pipeline
-![pipeline](docs/img/pipeline.png)
+![pipeline](docs/imgs/pipeline.png)
 
 ## Results
 
 ### DSEC dataset
-![dsec](docs/img/dsec.png)
+![dsec](docs/imgs/dsec.png)
 
 ### BS-ERGB dataset
-![bs_ergb](docs/img/bs_ergb.png)
+![bs_ergb](docs/imgs/bs_ergb.png)
 
 ## Citation
 
