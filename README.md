@@ -8,10 +8,12 @@ Official repository for [**Unsupervised Joint Learning of Optical Flow and Inten
 ## Results
 
 ### DSEC dataset
-![dsec](imgs/dsec.png)
+<img src="imgs/dsec.png" width="600">
+<!-- ![dsec](imgs/dsec.png) -->
 
 ### BS-ERGB dataset
-![bs_ergb](imgs/bs_ergb.png)
+<img src="imgs/bs_ergb.png" width="600">
+<!-- ![bs_ergb](imgs/bs_ergb.png) -->
 
 ## Citation
 
