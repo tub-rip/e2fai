@@ -26,11 +26,12 @@ If you use this work in your research, please cite it as follows:
   author        = {Shuang Guo and Guillermo Gallego},
   title         = {Unsupervised Joint Learning of Optical Flow and Intensity with Event Cameras},
   journal       = {(under review)},
-  year          = 2024
+  year          = 2025
 }
 ```
 
-# Code coming soon (upon paper acceptance)... 
+# Code coming soon... 
+(under review)
 <!-- ------- -->
 ## Setup
 
@@ -43,13 +44,20 @@ If you use this work in your research, please cite it as follows:
 - Optical flow.
 - Intensity image.
 
+## Related Works
+
+* [Motion-prior Contrast Maximization (ECCV 2024)](https://github.com/tub-rip/MotionPriorCMax)
+* [Secrets of Event-Based Optical Flow (TPAMI 2024)](https://github.com/tub-rip/event_based_optical_flow)
+* [EVILIP: Event-based Image Reconstruction as a Linear Inverse Problem (TPAMI 2022)](https://github.com/tub-rip/event_based_image_rec_inverse_problem)
+* [Event Collapse in Contrast Maximization Frameworks](https://github.com/tub-rip/event_collapse)
+  
 ## Additional Resources
 
 * [Research page (TU Berlin RIP lab)](https://sites.google.com/view/guillermogallego/research/event-based-vision)
-* [Course at TU Berlin](https://sites.google.com/view/guillermogallego/teaching/event-based-robot-vision)
-* [CMax-SLAM (TRO 2024)](https://github.com/tub-rip/cmax_slam)
+* [EPBA: Event-based Photometric Bundle Adjustment](https://github.com/tub-rip/epba)
 * [EMBA: Event-based Mosaicing Bundle Adjustment (ECCV 2024)](https://github.com/tub-rip/emba)
-* [Secrets of Event-Based Optical Flow (TPAMI 2024)](https://github.com/tub-rip/event_based_optical_flow)
+* [CMax-SLAM (TRO 2024)](https://github.com/tub-rip/cmax_slam)
 * [ES-PTAM: Event-based Stereo Parallel Tracking and Mapping](https://github.com/tub-rip/ES-PTAM)
+* [Course at TU Berlin](https://sites.google.com/view/guillermogallego/teaching/event-based-robot-vision)
 * [Survey paper](http://rpg.ifi.uzh.ch/docs/EventVisionSurvey.pdf)
 * [List of Resources](https://github.com/uzh-rpg/event-based_vision_resources)
