@@ -1,5 +1,5 @@
 # Unsupervised Joint Learning of Optical Flow and Intensity with Event Cameras
-Official repository for [**Unsupervised Joint Learning of Optical Flow and Intensity with Event Cameras**](https://arxiv.org/abs/2412.14111), by [Shuang Guo](https://shuang1997.github.io) and [Guillermo Gallego](http://www.guillermogallego.es).
+Official repository for [**Unsupervised Joint Learning of Optical Flow and Intensity with Event Cameras**](https://arxiv.org/abs/2503.17262), by [Shuang Guo](https://shuang1997.github.io), [Friedhelm Hamann](https://friedhelmhamann.github.io/) and [Guillermo Gallego](http://www.guillermogallego.es).
 
 ## Method
 <!-- ![pipeline](imgs/pipeline.png) -->
@@ -23,7 +23,7 @@ If you use this work in your research, please cite it as follows:
 
 ```bibtex
 @Article{Guo25e2fai,
-  author        = {Shuang Guo and Guillermo Gallego},
+  author        = {Shuang Guo and Friedhelm Hamann and Guillermo Gallego},
   title         = {Unsupervised Joint Learning of Optical Flow and Intensity with Event Cameras},
   journal       = {(under review)},
   year          = 2025
@@ -38,7 +38,7 @@ If you use this work in your research, please cite it as follows:
 ### High-level Input-Output
 
 **Input**:
-- Events (voxel grid).
+- Events.
 
 **Output**:
 - Optical flow.
