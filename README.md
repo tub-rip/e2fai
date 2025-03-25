@@ -1,7 +1,8 @@
 # Unsupervised Joint Learning of Optical Flow and Intensity with Event Cameras
 Official repository for [**Unsupervised Joint Learning of Optical Flow and Intensity with Event Cameras**](https://arxiv.org/abs/2503.17262), by [Shuang Guo](https://shuang1997.github.io), [Friedhelm Hamann](https://friedhelmhamann.github.io/) and [Guillermo Gallego](http://www.guillermogallego.es).
 
-## Method
+## Method.
+**E2FAI**: **E**vents to **F**low **A**nd **I**ntensity
 <!-- ![pipeline](imgs/pipeline.png) -->
 <div style="text-align: center;">
     <img src="imgs/pipeline.png" width="600">
