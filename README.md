@@ -1,35 +1,36 @@
 # Unsupervised Joint Learning of Optical Flow and Intensity with Event Cameras
 Official repository for [**Unsupervised Joint Learning of Optical Flow and Intensity with Event Cameras**](https://arxiv.org/abs/2503.17262), by [Shuang Guo](https://shuang1997.github.io), [Friedhelm Hamann](https://friedhelmhamann.github.io/) and [Guillermo Gallego](http://www.guillermogallego.es).
 
-## Method.
-**E2FAI**: **E**vents to **F**low **A**nd **I**ntensity
-<!-- ![pipeline](imgs/pipeline.png) -->
-<div style="text-align: center;">
-    <img src="imgs/pipeline.png" width="600">
-</div>
+Also known as **E2FAI**: **E**vents to **F**low **A**nd **I**ntensity
 
-## Results
+<h2 align="left">
+[PDF](https://arxiv.org/pdf/2503.17262) | [Video](https://youtu.be/x3_nc51F4XM) 
+</h2>
 
-### DSEC dataset (640 × 480 px)
-<!-- <img src="imgs/dsec.png" width="600"> -->
-![dsec](imgs/dsec.png)
-
-### BS-ERGB dataset (970 × 625 px)
-<!-- <img src="imgs/bs_ergb.png" width="600"> -->
-![bs_ergb](imgs/bs_ergb.png)
+[![Unsupervised Joint Learning of Optical Flow and Intensity with Event Cameras](imgs/2025_ICCV_E2FAI_play.jpg)](https://youtu.be/x3_nc51F4XM)
 
 ## Citation
 
 If you use this work in your research, please cite it as follows:
 
 ```bibtex
-@Article{Guo25e2fai,
+@InProceedings{Guo25iccv,
   author        = {Shuang Guo and Friedhelm Hamann and Guillermo Gallego},
   title         = {Unsupervised Joint Learning of Optical Flow and Intensity with Event Cameras},
-  journal       = {(under review)},
+  booktitle     = {IEEE/CVF International Conference on Computer Vision (ICCV)},
   year          = 2025
 }
 ```
+
+<!--
+## Results
+
+### DSEC dataset (640 × 480 px)
+![dsec](imgs/dsec.png)
+
+### BS-ERGB dataset (970 × 625 px)
+![bs_ergb](imgs/bs_ergb.png)
+-->
 
 # Code coming soon... 
 (under review)
