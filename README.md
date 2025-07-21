@@ -4,6 +4,7 @@ Official repository for [**Unsupervised Joint Learning of Optical Flow and Inten
 Also known as **E2FAI**: **E**vents to **F**low **A**nd **I**ntensity
 
 <h2 align="left">
+
 [PDF](https://arxiv.org/pdf/2503.17262) | [Video](https://youtu.be/x3_nc51F4XM) 
 </h2>
 
