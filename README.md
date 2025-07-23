@@ -5,7 +5,7 @@ Also known as **E2FAI**: **E**vents to **F**low **A**nd **I**ntensity
 
 <h2 align="left">
 
-[PDF](https://arxiv.org/pdf/2503.17262) | [Video](https://youtu.be/x3_nc51F4XM) 
+[PDF](docs/2025_ICCV_E2FAI_compressed.pdf) | [Video](https://youtu.be/x3_nc51F4XM) 
 </h2>
 
 [![Unsupervised Joint Learning of Optical Flow and Intensity with Event Cameras](imgs/2025_ICCV_E2FAI_play.jpg)](https://youtu.be/x3_nc51F4XM)
@@ -22,16 +22,6 @@ If you use this work in your research, please cite it as follows:
   year          = 2025
 }
 ```
-
-<!--
-## Results
-
-### DSEC dataset (640 × 480 px)
-![dsec](imgs/dsec.png)
-
-### BS-ERGB dataset (970 × 625 px)
-![bs_ergb](imgs/bs_ergb.png)
--->
 
 # Code coming soon... 
 (under review)
