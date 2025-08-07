@@ -1,5 +1,5 @@
 # Unsupervised Joint Learning of Optical Flow and Intensity with Event Cameras
-Official repository for [**Unsupervised Joint Learning of Optical Flow and Intensity with Event Cameras**](https://arxiv.org/abs/2503.17262), by [Shuang Guo](https://shuang1997.github.io), [Friedhelm Hamann](https://friedhelmhamann.github.io/) and [Guillermo Gallego](http://www.guillermogallego.es).
+Official repository for [**Unsupervised Joint Learning of Optical Flow and Intensity with Event Cameras**](https://arxiv.org/abs/2503.17262), **ICCV 2025 highlight**, by [Shuang Guo](https://shuang1997.github.io), [Friedhelm Hamann](https://friedhelmhamann.github.io/) and [Guillermo Gallego](http://www.guillermogallego.es).
 
 Also known as **E2FAI**: **E**vents to **F**low **A**nd **I**ntensity
 
@@ -24,7 +24,7 @@ If you use this work in your research, please cite it as follows:
 ```
 
 # Code coming soon... 
-(under review)
+
 <!-- ------- -->
 ## Setup
 
