@@ -5,7 +5,7 @@ Also known as **E2FAI**: **E**vents to **F**low **A**nd **I**ntensity
 
 <h2 align="left">
 
-[PDF](docs/2025_ICCV_E2FAI_compressed.pdf) | [Video](https://youtu.be/x3_nc51F4XM) 
+[PDF](docs/2025_ICCV_E2FAI_compressed.pdf) | [Poster](docs/2025_ICCV_E2FAI_poster.pdf) | [Video](https://youtu.be/x3_nc51F4XM) 
 </h2>
 
 [![Unsupervised Joint Learning of Optical Flow and Intensity with Event Cameras](imgs/2025_ICCV_E2FAI_play.jpg)](https://youtu.be/x3_nc51F4XM)
