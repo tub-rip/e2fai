@@ -1,0 +1,8 @@
+data:
+  dataset: DSEC
+  height: 480
+  width: 640
+  num_bins: 15
+
+model:
+  bilinear: True

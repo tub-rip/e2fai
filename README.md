@@ -4,8 +4,9 @@ Official repository for [**Unsupervised Joint Learning of Optical Flow and Inten
 Also known as **E2FAI**: **E**vents to **F**low **A**nd **I**ntensity
 
 <h2 align="left">
-
-[PDF](docs/2025_ICCV_E2FAI_compressed.pdf) | [Poster](docs/2025_ICCV_E2FAI_poster.pdf) | [Video](https://youtu.be/x3_nc51F4XM) 
+  <a href="docs/2025_ICCV_E2FAI_compressed.pdf">PDF</a> |
+  <a href="docs/2025_ICCV_E2FAI_poster.pdf">Poster</a> |
+  <a href="https://youtu.be/x3_nc51F4XM">Video</a>
 </h2>
 
 [![Unsupervised Joint Learning of Optical Flow and Intensity with Event Cameras](imgs/2025_ICCV_E2FAI_play.jpg)](https://youtu.be/x3_nc51F4XM)
@@ -23,9 +24,7 @@ If you use this work in your research, please cite it as follows:
 }
 ```
 
-# Code coming soon... 
 
-<!-- ------- -->
 ## Setup
 
 ### High-level Input-Output
@@ -36,6 +35,25 @@ If you use this work in your research, please cite it as follows:
 **Output**:
 - Optical flow.
 - Intensity image.
+
+
+## Environment Setup
+
+We recommend using **conda** to set up the environment.
+
+Create the environment using the provided `environment.yml`:
+```bash
+conda env create -f environment.yml
+conda activate e2fai
+```
+
+## Pretrained Model
+Download the pretrained model from [here](https://drive.google.com/file/d/1UsQXswjPV6P0lEETgN7upg-abT01iWNn/view?usp=sharing).
+
+## Inference on DSEC
+```bash
+python inference/inference_dsec.py --config config/dsec.yaml --ckp_path path_to_ckpt --name test_name --gpu 0
+```
 
 ## Related Works
 
