@@ -41,21 +41,6 @@ def save_flow_eval(file_path: str, flow: np.ndarray):
     imageio.imwrite(file_path, flow_16bit, format='PNG-FI')
 
 
-def scale_optical_flow(flow, max_flow_magnitude):
-    u, v = flow[0, :, :], flow[1, :, :]
-    magnitude = torch.sqrt(u ** 2 + v ** 2)
-    exceed_indices = magnitude > max_flow_magnitude
-
-    u_scaled = u.clone()
-    v_scaled = v.clone()
-
-    u_scaled[exceed_indices] = (u[exceed_indices] / magnitude[exceed_indices]) * max_flow_magnitude
-    v_scaled[exceed_indices] = (v[exceed_indices] / magnitude[exceed_indices]) * max_flow_magnitude
-    scaled_flow = torch.stack([u_scaled, v_scaled], dim=0)
-
-    return scaled_flow
-
-
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--config', type=str, required=True)
